@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<Saplings@Ecology>　2022勉強会
+================
 
-You can use the [editor on GitHub](https://github.com/saplings-ecology/meetings_2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# データ出典元、クレジット　Data source & Credits
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 多様性データ
 
-### Markdown
+  - **data/Community\_data.csv（プロット内の出現種のデータ）**
+  - **data/Island\_data.csv（島の詳細データ）**
+  - **data/Plant\_functional\_trait\_data.csv（植物の機能的特性データ）**
+  - **data/Species\_data.csv（種名リスト）**
+  - **data/Plant\_occeurences.csv（GBIF上の観察記録）**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Schrader, J., Moeljono, S., Tambing, J., Sattler, C., & Kreft, H.
+> 2020. A new dataset on plant occurrences on small islands, including
+> species abundances and functional traits across different spatial
+> scales. Biodiversity Data Journal 8:.
+> 
+> URL: <https://bdj.pensoft.net/article/55275/instance/5664007/>
+> 
+> Use license: Creative Commons Public Domain Waiver (CC-Zero)
 
-```markdown
-Syntax highlighted code block
+### ベースマップデータ
 
-# Header 1
-## Header 2
-### Header 3
+  - **data/basemap\_osm.geojson**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saplings-ecology/meetings_2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> © OpenStreetMap contributors
+> 
+> URL:<https://osmdata.openstreetmap.de/data/land-polygons.html>
