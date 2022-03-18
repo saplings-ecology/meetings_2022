@@ -1,0 +1,58 @@
+﻿species_ID,Family,Species,Author,UNIPA_Voucher_ID
+species_1,Rubiaceae,Ixora timorensis,Decne.,Schrader 12/13/82/99/140
+species_2,Ebenaceae,Diospyros maritima,Blume,Schrader 14/30/40/80/166/51
+species_3,Moraceae,Ficus microcarpa,L.f.,Schrader 88/92/98/48/204
+species_4,Moraceae,Ficus tinctoria,G.Forst.,Schrader 11/97/155
+species_5,Primulaceae,Myrsine rawacensis,A. DC.,Schrader 35/95/173/101
+species_6,Rubiaceae,Timonius sp. 1,,Schrader 20/151
+species_7,Euphorbiaceae,Macaranga dioica,(G.Forst.) M・l.Arg.,Schrader 4/176/112
+species_8,Myrtaceae,Eugenia reinwardtiana,(Blume) DC.,Schrader 10/121/159
+species_9,Micromelum ,Micromelum minutum,(G.Forst.) Wight & Arn.,Schrader 106/147
+species_10,Celastraceae,Pleurostylia opposita,(Wall.) Alston,Schrader 58
+species_11,Thymelaeaceae,Wikstroemia androsaemifolia,Decne.,Schrader 25/157/15
+species_12,Phyllanthaceae,Glochidion castaneum,Airy Shaw,Schrader 36/67/111/208
+species_13,,Unidentified species 1,,Schrader 53
+species_15,Burseraceae,Canarium oleosum,(Lam.) Engl.,Schrader 66/206/96/205
+species_16,Pittosporaceae,Pittosporum ferrugineum,W.T.Aiton,Schrader 64
+species_17,Rubiaceae,Timonius sp. 2,,Schrader 32/152
+species_18,Celastraceae,cf. Maytenus cupularis,,Schrader 54/77/118
+species_19,Loganiaceae,Geniostoma rupestre,J.R.Forst. & G.Forst.,Schrader 65/133
+species_20,Araliaceae,Schefflera sp.,,Schrader 69
+species_21,Moraceae,Ficus prasinicarpa,Elmer ex C.C.Berg,Schrader 59/116/129
+species_22,Sapotaceae,Planchonella obovata,(R.Br.) Pierre,Schrader 87/174/72/34/78/52/83
+species_23,Rubiaceae,Tarenna sambucina,(G.Forst.) T.Durand ex Drake,Schrader 50/170
+species_25,Euphorbiaceae,Spathiostemon javensis,Blume,Schrader 136/179/103
+species_26,Meliaceae,Aglaia elaeagnoidea,(A.Juss.) Benth.,Schrader 44/107/125/144
+species_28,Sapindaceae,Cupaniopsis sp.,,Schrader 57/89/142
+species_32,Sapindaceae,Allophylus cobbe,(L.) Forsyth f.,Schrader 43/93/124/200
+species_33,Moraceae,Ficus nervosa,B.Heyne ex Roth,Schrader 90/91
+species_34,Moraceae,Ficus pedunculosa,Miq.,Schrader 62/85/177
+species_35,Rubiaceae,Bikkia gaudichaudiana,Brongn.,Schrader 8/149
+species_36,Rutaceae,Atalantia lauterbachii,(Swingle) Govaerts,Schrader 55/109/160
+species_37,Fabaceae,Intsia bijuga,(Colebr.) Kuntze,Schrader 5/117/164
+species_38,Santalaceae,Exocarpos latifolius,R.Br.,Schrader 23/158
+species_39,Rubiaceae,Guettarda speciosa,L.,Schrader 19/148
+species_40,Phyllanthaceae,Phyllanthus praelongipes,Airy Shaw & G.L.Webster,Schrader 41/104/134/162/207
+species_41,Myrtaceae,Syzygium nitidum,Benth.,Schrader 47/135
+species_43,,Unidentified species 2,,Schrader 38/153/28
+species_44,,Unidentified species 3,,Schrader 56/94/211
+species_45,,Unidentified species 4,,Schrader 60/181/212
+species_46,Rutaceae,Geijera sp.,,Schrader 63
+species_47,,Unidentified species 5,,Schrader 45/216
+species_48,Sapotaceae,Mimusops elengi,L.,Schrader 105/217
+species_50,Sapotaceae,Manilkara sp.,,Schrader 110/209
+species_54,,Unidentified species 6,,Schrader 126/132
+species_58,,Unidentified species 7,,Schrader 108/122/210
+species_59,Phyllanthaceae,Antidesma bunius,(L.) Spreng.,Schrader 115/123/139
+species_60,Anacardiaceae,Buchanania arborescens,(Blume) Blume,Schrader 138/49/100
+species_61,Calophyllaceae ,Calophyllum inophyllum,L.,Schrader 27/141
+species_62,,Unidentified species 8,,Schrader 3/128/114/156/203
+species_63,Podocarpaceae,Podocarpus neriifolius,D.Don,Schrader 33/165/113
+species_64,Rutaceae,Lunasia amara,Blanco ,Schrader 37/180/102
+species_65,Lythraceae,Pemphis acidula,J.R. Forst. & G. Forst.,Schrader 39/86
+species_66,Calophyllaceae ,Calophyllum vexans,P.F.Stevens,Schrader 46/61/167
+species_68,Gnetaceae,Gnetum gnemon,L.,Schrader 73/182
+species_69,,Unidentified species 9,,Schrader 130/214
+species_70,Rubiaceae,Morinda citrifolia,L.,Schrader 17/178
+species_80,Myrtaceae,Decaspermum bracteatum,(Roxb.) A.J.Scott,Schrader 81/7/202/161
+species_82,Pandanaceae,Pandanus sp.,,Schrader 169
